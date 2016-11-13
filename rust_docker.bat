@@ -1,0 +1,1 @@
+docker run --rm -it -v c:\Users\Danny\Dev\rust-examples:/source -w /source scorpil/rust
